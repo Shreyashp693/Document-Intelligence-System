@@ -21,3 +21,8 @@ streamlit run app.py
 - List all employees from Mumbai
 - Find expenses above 5000
 - How many products are out of stock
+
+##Author
+Shreyash Punalkar  
+Int.Btech Cse (AI & DS)  
+MIT World Peace University (MIT-WPU), Pune
